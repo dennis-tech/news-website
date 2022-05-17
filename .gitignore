@@ -1,7 +1,7 @@
-/vendor/
-/plugins/
-/images/
-/js/
-*jqBootstrapValidation.js
+# /vendor/
+# /plugins/
+# /images/
+# /js/
+# *jqBootstrapValidation.js
 
 
